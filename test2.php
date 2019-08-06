@@ -24,13 +24,15 @@
         <p>vous voulez voir une belle page web? <a href="https://vitux.com/how-to-install-xampp-on-your-ubuntu-18-04-lts-system/" title="ca va etre cool!">openclassroom</a></p>
         
    
-       <p> <img src="/img/1.jpeg" /></p>
+       <p> <img src="img/1.jpeg" /></p>
 
 
        <figure>
-       <img src="/img/bloc.png">
+       <img src="img/bloc.png">
        <figcaption>ceci est un tres joli bloc note</figcaption>
        </figure>
+
+       <img src="img/5.jpg">
         <a href="ancre">Aller vers le tire</a>
     </body>
 </html>
